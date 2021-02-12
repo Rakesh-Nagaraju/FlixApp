@@ -19,6 +19,7 @@ FlixApp is a Movie Listing Ios app that allows users to browse movies from the [
 
 ### App Walkthrough GIF
 The working of the App can be seen in the `gif` image below: 
+
 <img src="https://github.com/Rakesh-Nagaraju/FlixApp/blob/main/Screen-Recording-2021-02-11-at-7%20(1).gif" width=250><br>
 
 ### Notes
